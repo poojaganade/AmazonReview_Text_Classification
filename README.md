@@ -17,3 +17,17 @@ This comment, despite being at the top of the forum, is difficult to understand,
 ### Solution:
 
 Use machine learning techniques to design a system that “pre-rates” new reviews on their “helpfulness” before they are given a position at the top of the forum. The proposed system will use a set of Amazon review data to train itself to predict a helpfulness classification (helpful, or not helpful) for new input data.
+
+### Conclusion
+##### Amazon Point of View
+
+This would help amazon put new reviews on the top if they are helpful which would enhance customer experience
+
+##### Text Classification
+Tried to find a link between ratings and helpful reviews, but since the correlation was low, we realized that Text classification would be needed to classify reviews as helpful or not.
+
+Gathered a better understanding of the classic problem in NLP, text classification, and learned about important concepts like feature engineering(TF-IDF Vector, Count Vectors).
+
+Understood that accuracy is not a good measure when data is imbalanced and utilized AUC-ROC Curve as a performance measure to select models
+
+Selected Logistic regression (TF-IDF-Word Level) since it had the highest AUC score.
