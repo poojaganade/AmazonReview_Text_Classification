@@ -1,1 +1,1 @@
-# AmazonReview_Text_Classification_
+# AmazonReview_Text_Classification
