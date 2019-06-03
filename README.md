@@ -18,7 +18,7 @@ This comment, despite being at the top of the forum, is difficult to understand,
 
 Use machine learning techniques to design a system that “pre-rates” new reviews on their “helpfulness” before they are given a position at the top of the forum. The proposed system will use a set of Amazon review data to train itself to predict a helpfulness classification (helpful, or not helpful) for new input data.
 
-### Conclusion
+### Conclusion:
 ##### Amazon Point of View
 
 This would help amazon put new reviews on the top if they are helpful which would enhance customer experience
